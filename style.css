@@ -1,0 +1,7 @@
+body { background: #5039f0; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 10px; display: flex; }
+.block-email-0 { color: #28bc09; font-size: 21px; margin-bottom: 5px; }
+.block-invoice-1 { color: #636341; font-size: 15px; margin-bottom: 5px; }
+.block-sms-2 { color: #cd113; font-size: 19px; margin-bottom: 5px; }
+.block-sms-3 { color: #79e4e9; font-size: 20px; margin-bottom: 5px; }
+.block-uploader-4 { color: #409970; font-size: 18px; margin-bottom: 5px; }
